@@ -1,11 +1,19 @@
 # PIC18F66J60
 
-TCP/IP MPLABX C18
+this code implements:
+socket client and server
+web server http
 
-this code implements: socket cliente and server, webserver http
+microchip  microcontroller:
+PIC18F66J60
+
+compiler used:
+MICROCHIP C18
+
+IDE used:
+MICROCHIP MPLABX
 
 how use this, click on this links:
-
 video 20
 https://www.youtube.com/watch?v=bw4drnXNRU8
 
